@@ -1,7 +1,8 @@
 ## Hey, I'm Renalvo!
 
 - 👾 I’m a Computer Engineering student at Universidade Federal de Alagoas
-- 🤖 I’m currently learning about Data Science and Deep Learning
+- 💻 Currently learning about Web Development
+- 🤖 Passionate about Data Science and Deep Learning
 
 <div align="left">
   <a href="https://github.com/renalvojr">

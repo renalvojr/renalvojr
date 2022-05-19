@@ -1,7 +1,7 @@
 ## Hey, I'm Renalvo!
 
 - 👾 I’m a Computer Engineering student at Universidade Federal de Alagoas
-- 💻 Currently learning about Web Development
+- 💻 Front-end Developer
 - 🤖 Passionate about Data Science and Deep Learning
 
 <div align="left">
